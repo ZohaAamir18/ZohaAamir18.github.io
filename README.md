@@ -9,7 +9,6 @@ The website includes the following pages:
 
 * Home: Highlighting featured furniture collections.
 * Products: A gallery of all available products.
-* Product Details: Detailed descriptions of selected products.
 * About: Information about the brand and company.
 * Contact: A form for users to reach out for inquiries or support.
 
@@ -17,17 +16,14 @@ The website includes the following pages:
 * Fully responsive design
 * Intuitive user interface
 * Filterable product categories
-* Product detail pages with images and descriptions
 * Contact form with validation
-* Integration with Google Maps API for store locations
 * CSS animations and transitions for enhanced user experience
 
 # Technologies Used
 * HTML5
 * CSS3
-  * Flexbox and Grid for layout
   * CSS transitions and animations
-  
-* Bootstrap 5 (optional, for faster UI development)
+
+* Bootstrap 5
 * Font Awesome for icons
 * Google Fonts for typography
