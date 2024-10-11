@@ -2,7 +2,7 @@
 # HomeHaven Furniture Website
 Welcome to the HomeHaven Furniture website repository. This project showcases a modern, responsive furniture website designed for a fictional company that offers stylish and high-quality home furnishings.
 
-# Project Overview
+# Website Overview
 The HomeHaven Furniture website is a mock-up project built to display modern furniture collections. It aims to provide users with an engaging experience where they can browse, search, and filter various home furnishing products.
 
 The website includes the following pages:
