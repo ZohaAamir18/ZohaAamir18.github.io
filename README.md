@@ -1,4 +1,3 @@
-
 # HomeHaven Furniture Website
 Welcome to the HomeHaven Furniture website repository. This project showcases a modern, responsive furniture website designed for a fictional company that offers stylish and high-quality home furnishings.
 
